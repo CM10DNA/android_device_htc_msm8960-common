@@ -80,7 +80,6 @@ TARGET_USES_ION := true
 BOARD_EGL_CFG := device/htc/msm8960-common/configs/egl.cfg
 
 # Wifi
-BOARD_HAS_QCOM_WLAN := true
 BOARD_WLAN_DEVICE := qcwcn
 BOARD_WPA_SUPPLICANT_DRIVER := NL80211
 BOARD_WPA_SUPPLICANT_PRIVATE_LIB := lib_driver_cmd_$(BOARD_WLAN_DEVICE)
