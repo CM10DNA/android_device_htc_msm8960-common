@@ -67,8 +67,8 @@ PRODUCT_PACKAGES += \
     hci_qcomm_init
 
 # Camera
-PRODUCT_PACKAGES += \
-    camera.msm8960
+#PRODUCT_PACKAGES += \
+#    camera.msm8960
 
 # GPS
 PRODUCT_PACKAGES += \
