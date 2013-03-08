@@ -92,9 +92,6 @@ TARGET_PROVIDES_POWERHAL := true
 # RIL
 BOARD_RIL_CLASS := "../../../device/htc/msm8960-common/libril/"
 
-# Time
-KERNEL_HAS_GETTIMEOFDAY_HELPER := true
-
 # Wifi
 BOARD_HAS_QCOM_WLAN := true
 BOARD_WLAN_DEVICE := qcwcn
